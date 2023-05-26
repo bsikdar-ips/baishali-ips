@@ -1,0 +1,47 @@
+{
+  "objectInfo" : {
+    "id" : "c43fKJCbhsydgfNJY5Hj2l",
+    "name" : "TF_parameterfile",
+    "type" : "TASKFLOW",
+    "metadata" : {
+      "modelVersion" : {
+        "major" : 1,
+        "minor" : 0
+      },
+      "repoInfo" : {
+        "repoHandle" : "du1tgq695kchzt1-gt-50558613-2023-05-26T10:43:21.057Z::tf.xml"
+      },
+      "contextAttributes" : null,
+      "additionalInfo" : {
+        "description" : "This is a test TF",
+        "contentType" : "application/json; charset=utf-8",
+        "documentState" : "VALID"
+      }
+    }
+  },
+  "dataFileExtension" : "xml",
+  "objectRefs" : [ {
+    "id" : "0lGD99pCj3Dg0gmjd2Xli5",
+    "name" : "mct_parameterfile",
+    "type" : "MTT",
+    "metadata" : {
+      "modelVersion" : {
+        "major" : 0,
+        "minor" : 0
+      },
+      "repoInfo" : {
+        "repoHandle" : "01CKI40Z000000000002"
+      },
+      "contextAttributes" : [ {
+        "name" : "id",
+        "value" : "@1"
+      } ],
+      "additionalInfo" : {
+        "description" : "This mapping task is to check if input parameters can be passes from one datatask to another in TF",
+        "contentType" : "JSON",
+        "documentState" : "VALID"
+      }
+    },
+    "path" : "/Explore/Baishali"
+  } ]
+}
