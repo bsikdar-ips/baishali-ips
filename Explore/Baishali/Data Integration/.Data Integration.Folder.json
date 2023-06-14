@@ -1,0 +1,22 @@
+{
+  "objectInfo" : {
+    "id" : "4SZjVZwAc4RfD2m5wecdcN",
+    "name" : "Data Integration",
+    "type" : "Folder",
+    "metadata" : {
+      "modelVersion" : {
+        "major" : 0,
+        "minor" : 0
+      },
+      "repoInfo" : null,
+      "contextAttributes" : [ ],
+      "additionalInfo" : {
+        "description" : "This folder contains all DI related jobs",
+        "contentType" : "Binary",
+        "documentState" : "COMPLETE"
+      }
+    }
+  },
+  "dataFileExtension" : "json",
+  "objectRefs" : [ ]
+}
